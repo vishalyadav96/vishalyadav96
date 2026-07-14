@@ -46,7 +46,7 @@ I'm *Vishal Yadav, a B.Tech Computer Science & Engineering (AI/ML) student at **
 
 # 🧠 Tech Stack
 
-*Languages:* Python
+*Languages:* Python, C++, MYsql
 
 *Learning:* SQL • Machine Learning • Git • GitHub • DSA
 
